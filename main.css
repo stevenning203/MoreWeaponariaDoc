@@ -25,3 +25,13 @@ h3 {
 h4 {
 	font-weight: normal;
 }
+
+img {
+	float: right;
+	width: 25%;
+	height: 25%;
+}
+
+body {
+	clear: right;
+}
