@@ -1,3 +1,27 @@
 .main {
 	font-family: Arial;
+	margin-left: 11em;
+	border-style: solid;
+	border-color: gray;
+	margin-right: 11em;
+	margin-top: 3em;
+	border-width: 2px;
+	font-size: 24px;
+	padding: 20px;
+}
+
+h1 {
+	font-weight: normal;
+}
+
+h2 {
+	font-weight: normal;
+}
+
+h3 {
+	font-weight: normal;
+}
+
+h4 {
+	font-weight: normal;
 }
