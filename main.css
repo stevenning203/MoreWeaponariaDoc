@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
 .main {
-	font-family: Arial;
+	font-family: Open Sans;
 	margin-left: 11em;
 	border-style: solid;
 	border-color: gray;
@@ -28,8 +30,6 @@ h4 {
 
 img {
 	float: right;
-	width: 25%;
-	height: 25%;
 }
 
 body {
